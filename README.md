@@ -44,6 +44,14 @@ A learning project for browsing workouts, building a daily workout plan, and sav
 
 [Repository](https://github.com/rezaulhasan1369/assignment_6) · [Live Demo](https://assignment-6-two-pink.vercel.app/)
 
+### Dev Stack Builder — Technology Stack Planner
+
+A responsive React application for exploring development technologies and building a personalized tech stack, with duplicate prevention and easy stack management.
+
+**Stack:** React • Vite • Tailwind CSS • DaisyUI • React-Toastify • JSON
+
+[Repository](https://github.com/rezaulhasan1369/react-assignment-five) · [Live Demo](https://earnest-gingersnap-7bad9b.netlify.app/)
+
 ## Connect With Me
 
 [LinkedIn](https://www.linkedin.com/in/mohd-rezaul-hasan/) · [GitHub](https://github.com/rezaulhasan1369) · [Email](mailto:rezaulhasan1369@gmail.com)
