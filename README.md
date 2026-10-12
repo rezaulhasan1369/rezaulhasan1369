@@ -1,23 +1,22 @@
-![Mohd. Rezaul Hasan — Junior Web Developer. React, Next.js, and TypeScript.](assets/banner/github-profile-banner.png)
+![Mohd. Rezaul Hasan — Junior Software Developer. React, Next.js, and TypeScript.](assets/banner/github-profile-banner.png)
 
 ## Hi, I'm Mohd. Rezaul Hasan 👋
 
-Welcome to my GitHub profile. I build and learn through hands-on web development projects, currently focusing on React, Next.js, and TypeScript.
+**Junior Software Developer**<br>
+**React • Next.js • TypeScript**<br>
+**Full-Stack Development & Application Security**
+
+Welcome to my GitHub profile. I build and learn through hands-on software development projects, with a focus on responsive web applications using React, Next.js, and TypeScript.
 
 ## About Me
 
-I'm an Electrical & Electronics Engineering graduate transitioning into software development, with a growing focus on modern web technologies. I enjoy turning ideas into clean, responsive web experiences while strengthening my understanding of JavaScript, React, Next.js, and TypeScript.
+I'm an Electrical & Electronics Engineering graduate with professional engineering experience, transitioning into software development. I enjoy turning ideas into clean, responsive web experiences while strengthening my understanding of JavaScript, React, Next.js, and TypeScript.
 
-My engineering background shapes how I approach technical problems: systematically, with curiosity and a desire to understand how systems work.
+My engineering background and professional experience shape how I approach technical problems: systematically, with curiosity and a desire to understand how systems work.
 
-## Current Focus
+## Demonstrated Technologies
 
-- Exploring Next.js and modern React development
-- Building responsive web applications through hands-on projects
-- Strengthening JavaScript and TypeScript fundamentals
-- Learning cybersecurity and secure software development fundamentals
-
-## Tech Stack
+Technologies and tools used in my hands-on projects and development workflow.
 
 ### Web Foundations
 
@@ -33,10 +32,32 @@ My engineering background shapes how I approach technical problems: systematical
 
 ![Git, GitHub, VS Code](https://skillicons.dev/icons?i=git,github,vscode&theme=dark&perline=3)
 
+### Project-Based Backend Experience
+
+Better Auth and MongoDB — used in BazarDor for authentication and database integration.
+
+## Currently Learning
+
+- Full-Stack Development
+- Backend Engineering
+- Database Design
+- Authentication and Authorization
+- Application Security
+- Secure Software Development
+
+I'm developing these fundamentals through study and practice, building on the technologies used in my projects.
 
 ## Featured Projects
 
-### FitLog — Workout Library
+### BazarDor — Assignment 7
+
+A Bengali-first market-price application for browsing grocery prices in Bangladesh, tracking price changes, and exploring market-wise details, with authentication and protected product pages.
+
+**Stack:** Next.js • React • TypeScript • Better Auth • MongoDB • Tailwind CSS
+
+[Repository](https://github.com/rezaulhasan1369/Assignment-7) · [Live Demo](https://bazardor-dps25.vercel.app)
+
+### FitLog — Assignment 6
 
 A learning project for browsing workouts, building a daily workout plan, and saving exercises for later, with plans stored locally in the browser.
 
@@ -44,11 +65,11 @@ A learning project for browsing workouts, building a daily workout plan, and sav
 
 [Repository](https://github.com/rezaulhasan1369/assignment_6) · [Live Demo](https://assignment-6-two-pink.vercel.app/)
 
-### Dev Stack Builder — Technology Stack Planner
+### Dev Stack Builder — Assignment Five
 
 A responsive React application for exploring development technologies and building a personalized tech stack, with duplicate prevention and easy stack management.
 
-**Stack:** React • Vite • Tailwind CSS • DaisyUI • React-Toastify • JSON
+**Stack:** React • TypeScript • Vite • Tailwind CSS • React-Toastify
 
 [Repository](https://github.com/rezaulhasan1369/react-assignment-five) · [Live Demo](https://earnest-gingersnap-7bad9b.netlify.app/)
 
